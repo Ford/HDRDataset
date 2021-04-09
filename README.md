@@ -1,7 +1,7 @@
 # HDRDataset
 Highway Driving RTK Dataset
 
-This Repo will contain the AV LLC's RTK dataset. Here are some links:
+This Repo will contain the Ford's RTK dataset. Here are some links:
 
 ### Arxiv Publication
 [Link](https://arxiv.org/abs/2010.01774)
